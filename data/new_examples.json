@@ -1,0 +1,406 @@
+[
+    {
+        "text": "At approximately 2:00 p.m. on March 15, 2013, Employee #1, a plasterer, employed by Quality Plastering Inc., was working at a new residential construction site. He was applying a finish coat of plaster to a retaining wall. A swarm of bees appeared. Employee #1 attempted to run from the swarm. He slipped and fell over the wall, incurring serious injury. Employee #1 was transported to Cottage Hospital, where he was admitted and treated for a right elbow fracture and a right arm fracture. He required hospitalization for three days. The employer notified Cal/OSHA at 5:34 p.m. on March 16, 2013. Cal/OSHA initiated its investigation on April 11, 2013. It was determined that Employee #1 had been working for the company for approximately 11 years. On the day of the fall, he was performing his normal duties while working in close proximity to a supervisor and coworkers. Interviews conducted with Employee #1, his supervisor, and coworkers established, and the Cal/OSHA report concluded that Employee #1 fell over the retaining wall as he attempted to escape a swarm of bees.",
+        "ID": 370,
+        "arguments": {
+            "EVENT": [
+                "Employee #1 slipped and fell over the wall"
+            ],
+            "ACTIVITY": [
+                "applying a finish coat of plaster to a retaining wall"
+            ],
+            "WHO": [
+                "Employee #1, a plasterer, employed by Quality Plastering Inc."
+            ],
+            "WHERE": [
+                "a new residential construction site"
+            ],
+            "WHEN": [
+                "March 15, 2013, at approximately 2:00 p.m."
+            ],
+            "CAUSE": [
+                "attempted to run from a swarm of bees"
+            ],
+            "EQUIPMENT": [
+                "retaining wall"
+            ],
+            "INJURY": [
+                "serious injury, a right elbow fracture and a right arm fracture"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "right elbow and right arm"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "On September 23, 2011, an employee of a paving crew at a residential site was sweeping up miscellaneous debris, when he was stung by a bee. He later died as a result of his reaction to the bee sting.",
+        "ID": 371,
+        "arguments": {
+            "EVENT": [
+                "was stung by a bee"
+            ],
+            "ACTIVITY": [
+                "sweeping up miscellaneous debris"
+            ],
+            "WHO": [
+                "an employee of a paving crew"
+            ],
+            "WHERE": [
+                "a residential site"
+            ],
+            "WHEN": [
+                "September 23, 2011"
+            ],
+            "CAUSE": [
+                "reaction to the bee sting"
+            ],
+            "EQUIPMENT": [
+                ""
+            ],
+            "INJURY": [
+                ""
+            ],
+            "INJURED": [
+                "an employee"
+            ],
+            "BODY-PARTS": [
+                ""
+            ],
+            "DEATH": [
+                "an employee"
+            ]
+        }
+    },
+    {
+        "text": "On August 11, 2006, Employee #1 was on an 8 ft step ladder using a circular saw on an eave. When he disturbed a yellow jacket nest, he jumped off the ladder and tried to throw the saw away. The saw blade struck Employee #1's right abdominal area. He was hospitalized for a deep abdominal laceration.",
+        "ID": 372,
+        "arguments": {
+            "EVENT": [
+                "jumped off the ladder", 
+                "saw blade struck Employee #1's right abdominal area"
+            ],
+            "ACTIVITY": [
+                "using a circular saw on an eave"
+            ],
+            "WHO": [
+                "Employee #1"
+            ],
+            "WHERE": [
+                ""
+            ],
+            "WHEN": [
+                "August 11, 2006"
+            ],
+            "CAUSE": [
+                "disturbed a yellow jacket nest"
+            ],
+            "EQUIPMENT": [
+                "8 ft step ladder", 
+                "circular saw"
+            ],
+            "INJURY": [
+                "deep abdominal laceration"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "right abdominal area"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "On August 27, 2005, Employee #1 and a coworker were clearing the banks of a river from hurricane debris. They were in a workboat with an outboard motor and were manually picking up the debris. They encountered a wasp nest on a tree limb and were attacked by the wasps. They were attempting to get away from the wasps and took their life jackets off and jumped into the river. Employee #1 drowned.",
+        "ID": 373,
+        "arguments": {
+            "EVENT": [
+                "attacked by the wasps", 
+                "jumped into the river", 
+                "Employee #1 drowned"
+            ],
+            "ACTIVITY": [
+                "clearing the banks of a river from hurricane debris"
+            ],
+            "WHO": [
+                "Employee #1 and a coworker"
+            ],
+            "WHERE": [
+                "banks of a river"
+            ],
+            "WHEN": [
+                "August 27, 2005"
+            ],
+            "CAUSE": [
+                "attacked by the wasps"
+            ],
+            "EQUIPMENT": [
+                "workboat with an outboard motor"
+            ],
+            "INJURY": [
+                "drowned"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                ""
+            ],
+            "DEATH": [
+                "Employee #1"
+            ]
+        }
+    },
+    {
+        "text": "At approximately 8:00 a.m. on July 23, 2003, Employee #1 was performing duties as a contract backhoe operator, operating a CASE 580, Super L Series. Employee #1 had been digging a number of trenches in order to locate an existing sewer line to tie in to new residences. The plumbing contractor employees were not on site at the time of the accident, Employee #1 decided to enter the Lot 28 trench, which was greater than 5 ft in depth and approximately 5 ft 10 in. to 6 ft 8 in. deep that had been sloped in order to locate the existing line. When Employee #1 entered the trench a side wall section collapsed and broke off, caving in on Employee #1. Employee #1 sustained serious injuries as a result of the accident and was hospitalized and treated for his injuries.",
+        "ID": 374,
+        "arguments": {
+            "EVENT": [
+                "side wall section collapsed and broke off", 
+                "caving in on Employee #1"
+            ],
+            "ACTIVITY": [
+                "performing duties as a contract backhoe operator", 
+                "digging a number of trenches"
+            ],
+            "WHO": [
+                "Employee #1"
+            ],
+            "WHERE": [
+                "Lot 28 trench"
+            ],
+            "WHEN": [
+                "July 23, 2003, at approximately 8:00 a.m."
+            ],
+            "CAUSE": [
+                "side wall section collapsed"
+            ],
+            "EQUIPMENT": [
+                "CASE 580, Super L Series backhoe"
+            ],
+            "INJURY": [
+                "sustained serious injuries"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                ""
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "On January 9, 2013, Employee #1, employed by an oil and gas pipeline contractor, was working on a pipeline construction project. He was setting a 40-foot section of 12-inch pipe into the bending machine. The machine started to slide on the frozen ground. The employee wrapped his arm around the pipe to prevent the machine from sliding. The bending machine fell into the trench. The employee, who was holding onto the pipe, was pushed into the trench and struck on the head. The employee was killed.",
+        "ID": 375,
+        "arguments": {
+            "EVENT": [
+                "machine started to slide", 
+                "employee was pushed into the trench and struck on the head", 
+                "employee was killed"
+            ],
+            "ACTIVITY": [
+                "working on a pipeline construction project", 
+                "setting a 40-foot section of 12-inch pipe into the bending machine"
+            ],
+            "WHO": [
+                "Employee #1, employed by an oil and gas pipeline contractor"
+            ],
+            "WHERE": [
+                "pipeline construction project"
+            ],
+            "WHEN": [
+                "January 9, 2013"
+            ],
+            "CAUSE": [
+                "machine slid on frozen ground"
+            ],
+            "EQUIPMENT": [
+                "40-foot section of 12-inch pipe", 
+                "bending machine"
+            ],
+            "INJURY": [
+                "struck on the head"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "head"
+            ],
+            "DEATH": [
+                "Employee #1"
+            ]
+        }
+    },
+    {
+        "text": "At approximately 8:25 a.m. on March 5, 2008, Employee #1 was working at A&M; Reinforcing Specialist Inc. located in El Cajon, CA. Employee #1 was threading a bundle of \"4\" (0.625 inch diameter) rebar through the MEP 85 V Rebar Bending machine's (Serial Number 001028) (MEP 85V) rollers. The MEP 85 V bends sections of rebar into different shapes (90-degree bends, rectangles, straight pieces, etc.) and lengths that are used in construction trades for the foundation of reinforced cement structures. Employee #1 was attempting to pull the rebar through the first rollers of the MEP 85V but was having problems, so a supervisor assisted him. The supervisor was spinning the large bundle (spool of circular wrapped rebar on a dispenser) of rebar by hand during the rebar threading process just before it enters the first set of rollers at the entrance of MEP 85 V machine. Employee #1 was moving the rebar from the prestraightening unit into the main straightening unit in between the first two sets of rollers with his gloved right hand moving the rebar forward while he had his left hand on the toggle switch. The first rollers (front driver roller) on the straightening unit are responsible for grabbing and providing the power to pull the rebar through the remaining rollers. A metal burr on the rebar being fed into the first sets of upper and lower rollers got caught on the edge of Employee #1's right gloved hand causing his right hand to be pulled into the main straightening unit of the MEP 85V Rebar Bending machine and crushing his two fingers (right ring and little finger). Employee #1 received sustained a complete amputation of the right ring and little finger just above the second knuckle as a result of crushing his two fingers in the front rollers. Once Employee #1 realized what he had done, he moved the toggle switch using his left hand until the front driver roller went into the reverse position to release his gloved right hand from the front driver roller. The supervisor assisted Employee #1 to a manager's office to get help. Employee #1 told the manager that he didn't need a paramedic and had the manager drive him to the hospital. The manager drove Employee #1 to Sharp Grossmont Hospital, where Employee #1 was hospitalized for three days. Employee #1 had two surgeries on two different fingers as a result of his injuries. The right ring finger was reattached. At the time of the interview with Employee #1 his ring finger was getting sufficient blood supply and it was thought that it was going to make a successful recovery.",
+        "ID": 376,
+        "arguments": {
+            "EVENT": [
+                "right hand was pulled into the machine, crushing two fingers"
+            ],
+            "ACTIVITY": [
+                "threading rebar through the MEP 85 V Rebar Bending machine"
+            ],
+            "WHO": [
+                "Employee #1"
+            ],
+            "WHERE": [
+                "A&M; Reinforcing Specialist Inc., El Cajon, CA"
+            ],
+            "WHEN": [
+                "March 5, 2008, at approximately 8:25 a.m."
+            ],
+            "CAUSE": [
+                "metal burr on rebar caught Employee #1's gloved hand"
+            ],
+            "EQUIPMENT": [
+                "MEP 85 V Rebar Bending machine"
+            ],
+            "INJURY": [
+                "complete amputation of the right ring and little finger"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "right hand, specifically right ring and little finger"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "At approximately 12:38 p.m. on July 16, 2013, Employee #1, of company known as The Shutter Man was operating a portable powered circular saw. The employee's right hand came in contact with the saw blade lacerating two fingers. Employee #1 was taken to Pacific Medical Center, where his fingers were amputated. The employee remained hospitalized.",
+        "ID": 377,
+        "arguments": {
+            "EVENT": [
+                "right hand came in contact with the saw blade, lacerating two fingers"
+            ],
+            "ACTIVITY": [
+                "operating a portable powered circular saw"
+            ],
+            "WHO": [
+                "Employee #1 of The Shutter Man"
+            ],
+            "WHERE": [
+                ""
+            ],
+            "WHEN": [
+                "July 16, 2013, at approximately 12:38 p.m."
+            ],
+            "CAUSE": [
+                "contact with the saw blade"
+            ],
+            "EQUIPMENT": [
+                "portable powered circular saw"
+            ],
+            "INJURY": [
+                "laceration of two fingers, leading to amputation"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "right hand, specifically two fingers"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "At approximately 9:30 a.m. on June 2, 2006, Employee #1 was setting up to repair a vent cover on a residential roof, which measured approximately 8 ft from the ground to the eave. While he was climbing from a ladder to the roof, the ladder slid along the gutter and he fell approximately 6 ft to a concrete sidewalk. Employee #1 was hospitalized for a fractured pelvis, a fractured left femur, and a bladder injury. The conditions were wet at the time of the accident.",
+        "ID": 378,
+        "arguments": {
+            "EVENT": [
+                "fell from a ladder to a concrete sidewalk"
+            ],
+            "ACTIVITY": [
+                "setting up to repair a vent cover on a residential roof"
+            ],
+            "WHO": [
+                "Employee #1"
+            ],
+            "WHERE": [
+                "a residential roof"
+            ],
+            "WHEN": [
+                "June 2, 2006, at approximately 9:30 a.m."
+            ],
+            "CAUSE": [
+                "ladder slid along the gutter"
+            ],
+            "EQUIPMENT": [
+                "ladder"
+            ],
+            "INJURY": [
+                "fractured pelvis", 
+                "fractured left femur", 
+                "bladder injury"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "pelvis", 
+                "left femur", 
+                "bladder"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "At around 10:30 a.m. on July 22, 2005, Employee #1, a tile installer with a subcontractor, was installing a new bathroom countertop and sink in a residential building under renovation. While cutting the sink hole in the countertop (first with a jig saw, and then with a Skil circular saw), the circular saw blade became stuck in the wood and kicked back. Employee #1 was hospitalized for a torso laceration. The investigation showed that the saw's hinged blade guard was stuck in the open position.",
+        "ID": 379,
+        "arguments": {
+            "EVENT": [
+                "circular saw blade kicked back, causing a torso laceration"
+            ],
+            "ACTIVITY": [
+                "installing a new bathroom countertop and sink"
+            ],
+            "WHO": [
+                "Employee #1, a tile installer"
+            ],
+            "WHERE": [
+                "a residential building under renovation"
+            ],
+            "WHEN": [
+                "July 22, 2005, at around 10:30 a.m."
+            ],
+            "CAUSE": [
+                "circular saw blade got stuck and kicked back"
+            ],
+            "EQUIPMENT": [
+                "Skil circular saw"
+            ],
+            "INJURY": [
+                "torso laceration"
+            ],
+            "INJURED": [
+                "Employee #1"
+            ],
+            "BODY-PARTS": [
+                "torso"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    }    
+]
